@@ -19,5 +19,7 @@ Navigate to kubernetes folder.
 Apply the kubernetes files in following order:
 
 ``` kubectl apply -f database.yaml ```
+
 ``` kubectl apply -f backend.yaml ```
+
 ``` kubectl apply -f frontend.yaml ```
