@@ -1,3 +1,5 @@
+For the article of this repo, please refer to: https://www.swtestacademy.com/deploy-full-stack-application-in-kubernetes/
+
 ## INSTRUCTIONS
 
 ### Create backend image
@@ -23,7 +25,5 @@ Apply the kubernetes files in following order:
 ``` kubectl apply -f backend.yaml ```
 
 ``` kubectl apply -f frontend.yaml ```
-
-For the article of this repo, please refer to: https://www.swtestacademy.com/deploy-full-stack-application-in-kubernetes/
 
 Enjoy!
